@@ -24,7 +24,7 @@ end
 
 def take_a_number(katz_deli, name)
   katz_deli << name 
- puts "Welcome, #{name}"
+ puts "Welcome, #{name}, You are "
 end 
 
 #"The line is currently: 1. Logan 2. Avi 3. Spencer"

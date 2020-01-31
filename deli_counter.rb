@@ -23,7 +23,8 @@ def line(katz_deli)
 end 
 
 def take_a_number(katz_deli, name)
-  katz_deli
+  katz_deli << name 
+  binding.pry 
 end 
 
 #"The line is currently: 1. Logan 2. Avi 3. Spencer"

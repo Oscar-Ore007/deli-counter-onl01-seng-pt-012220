@@ -14,6 +14,7 @@ def line(katz_deli)
  else 
    katz_deli.each do |p|
      binding. pry 
+   end 
   end
 end 
 
